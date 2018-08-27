@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="disruptorDemo:war">
+    <output-path>$PROJECT_DIR$/../disruptorDemo/target</output-path>
+    <root id="archive" name="disruptorDemo.war">
+      <element id="artifact" artifact-name="disruptorDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
